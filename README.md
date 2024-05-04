@@ -1,1 +1,1 @@
-This is a operators program and praticing it in my organisation.
+This is a operators program and praticing example it in my organisation.
